@@ -1,5 +1,3 @@
 # Credict Score prediction
-The model predicts whether a person can be in debt within 2 years by looking into his/her transaction history.  
+The model predicts whether a person can be in debt within 2 years by looking into his/her transaction history. This project was done as a part of the course "Machine Learning with Python: Zero to GBMS" organized by Jovian. it helped me understand the fundamentels of Data Analysis and Machine Learning.
 
-### Model used - Light Gradient Boosting 
-I was able to get **roc_auc of 0.8641** on the test set.
